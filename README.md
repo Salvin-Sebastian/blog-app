@@ -11,7 +11,7 @@ Beyond UI is a handcrafted, state-of-the-art editorial blog platform built with 
 - **High-Performance Architecture**: Optimized server components, layout structures, and standardized file routing.
 - **Accessible & Polished**: Thoughtful micro-details including custom scrollbars, stylized selection tokens, and integrated robust focus rings for accessible navigation.
 
-### Live Link : https://blog-app-eta-inky.vercel.app/
+### Live Link : https://blog-app-iota-nine-82.vercel.app/
 
 
 ## 🚀 Getting Started
